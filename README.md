@@ -12,6 +12,7 @@ function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn
 (function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
 </script>
 </div>
+
 <div class="wikidoc">
 <p><strong>Visual Studio add-in/extension that generates code based on OO design patterns</strong><br>
 <br>
